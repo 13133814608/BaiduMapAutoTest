@@ -1,0 +1,3 @@
+# BaiduMapAutoTest
+测试福特Phase4的Android代码 
+该嗲吗主要是用来测试android的
