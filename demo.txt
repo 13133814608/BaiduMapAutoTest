@@ -1,2 +1,3 @@
 shixinfa
 创建dev分支，把文件提交到dev分支
+直接进行远程的代码合并到master
